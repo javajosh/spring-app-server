@@ -1,0 +1,4 @@
+### Test GreetingController in IntelliJ
+### Can also use the browser, curl, wget, insomnia, etc.
+http://localhost:8080/greeting?name=foobar
+Accept: application/json
